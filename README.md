@@ -288,3 +288,8 @@ The following areas are targeted for development beyond the initial academic sco
 ## ⭐ Support the Project
 
 If you’re interested in AI, Computer Vision, or Multimodal Systems, please ⭐ star the repository or follow for updates as this academic research project progresses!
+
+
+## ⭐ Note
+
+This repository is maintained for academic evaluation purposes.
